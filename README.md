@@ -19,7 +19,7 @@
 
 ## GradientBoosting
 - [XGBoost](https://arxiv.org/pdf/1603.02754.pdf)
-- *[CatBoost](https://arxiv.org/pdf/1706.09516.pdf)
+- [CatBoost](https://arxiv.org/pdf/1706.09516.pdf)
 - [CatBoost|XGBoost|LightGBM comparison](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 ## Metrics
