@@ -10,6 +10,7 @@
 - [Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf) - LearnBPR, MF, bayes optimizing function
 
 ## Statistics
+- [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
 - [Possion bootstrap](https://www.unofficialgoogledatascience.com/2015/08/an-introduction-to-poisson-bootstrap26.html)
 - *[Delta Method](https://arxiv.org/pdf/1803.06336.pdf)
 - [Hypo testing bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)#Bootstrap_hypothesis_testing)
