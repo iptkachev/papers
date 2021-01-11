@@ -12,6 +12,7 @@
 
 ## Statistics
 - [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
+- [Practitioner’s Guide to Statistical Tests](https://medium.com/@vktech/practitioners-guide-to-statistical-tests-ed2d580ef04f) - tests for proportion, pitfalls
 - [Possion bootstrap](https://www.unofficialgoogledatascience.com/2015/08/an-introduction-to-poisson-bootstrap26.html)
 - *[Delta Method](https://arxiv.org/pdf/1803.06336.pdf)
 - [Hypo testing bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)#Bootstrap_hypothesis_testing)
