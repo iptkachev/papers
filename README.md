@@ -1,8 +1,12 @@
 # Machine Learning Papers and best sources to learn topics
 
 ## Deep learning
+### NLP
 - *[Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
+### Recommender systems
 - *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
+### CV
+- [R-CNN,2013](https://arxiv.org/pdf/1311.2524.pdf)
 
 ## Recommender systems
 - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - SGD, MSE, implicit, clean dataset, explain recommendations
