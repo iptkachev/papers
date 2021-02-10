@@ -6,7 +6,9 @@
 ### Recommender systems
 - *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
 ### CV
-- *[R-CNN,2013](https://arxiv.org/pdf/1311.2524.pdf)
+- *[R-CNN, 2013](https://arxiv.org/pdf/1311.2524.pdf)
+- *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
+- *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 
 ## Recommender systems
 - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - SGD, MSE, implicit, clean dataset, explain recommendations
