@@ -11,10 +11,13 @@
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
 
 ## Recommender systems
+### MF
 - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - SGD, MSE, implicit, clean dataset, explain recommendations
 - [ALS distributed, notes](http://stanford.edu/~rezab/classes/cme323/S15/notes/lec14.pdf)
 - [Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf) - LearnBPR, MF, bayes optimizing ranking function
 - [WSABIE: Scaling Up To Large Vocabulary Image Annotation](http://www.thespermwhale.com/jaseweston/papers/wsabie-ijcai.pdf) - smart pairwise sampling, optimizing ranking function 
+### Improving recommendations
+- [Improving recommendation lists through topic diversification](https://www.researchgate.net/publication/200110416_Improving_recommendation_lists_through_topic_diversification)
 
 ## Statistics
 - [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
