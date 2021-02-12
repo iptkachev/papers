@@ -3,8 +3,7 @@
 ## Deep learning
 ### NLP
 - *[Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
-### Recommender systems
-- *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
+
 ### CV
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
@@ -16,8 +15,12 @@
 - [ALS distributed, notes](http://stanford.edu/~rezab/classes/cme323/S15/notes/lec14.pdf)
 - [Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf) - LearnBPR, MF, bayes optimizing ranking function
 - [WSABIE: Scaling Up To Large Vocabulary Image Annotation](http://www.thespermwhale.com/jaseweston/papers/wsabie-ijcai.pdf) - smart pairwise sampling, optimizing ranking function 
+
 ### Improving recommendations
 - *[Improving recommendation lists through topic diversification](https://www.researchgate.net/publication/200110416_Improving_recommendation_lists_through_topic_diversification)
+
+### Using deep learning
+- *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
 
 ## Statistics
 - [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
