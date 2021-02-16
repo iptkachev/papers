@@ -33,7 +33,7 @@
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
-- *[Adapting Neural Networks for Uplift Models](https://arxiv.org/pdf/2011.00041.pdf)
+- [Adapting Neural Networks for Uplift Models](marked_articles/2011.00041.pdf)
 - *[A Practically Competitive and Provably Consistent Algorithm for Uplift Modeling](https://arxiv.org/pdf/1709.03683.pdf)
 
 ## Advertising
