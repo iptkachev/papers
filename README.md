@@ -9,6 +9,9 @@
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
 
+### Training
+- [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
+
 ## Recommender systems
 ### MF
 - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - SGD, MSE, implicit, clean dataset, explain recommendations
