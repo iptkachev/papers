@@ -9,8 +9,10 @@
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
 
-### Training
+### Common
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
+- *[Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
+- *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 
 ## Recommender systems
 ### MF
