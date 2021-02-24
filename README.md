@@ -13,6 +13,7 @@
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
 - *[Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+- *[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
 ## Recommender systems
 ### MF
