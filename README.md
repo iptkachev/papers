@@ -3,6 +3,7 @@
 ## Deep learning
 ### NLP
 - *[Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
+- *[NegativeSampling in Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
 
 ### CV
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
