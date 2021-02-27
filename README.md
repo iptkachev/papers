@@ -2,8 +2,8 @@
 
 ## Deep learning
 ### NLP
-- *[Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
-- *[NegativeSampling in Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
+- [Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
+- [Negative Sampling, Hierarchical Softmax in Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
 
 ### CV
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
@@ -14,7 +14,7 @@
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
 - *[Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
-- *[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+- *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 
 ## Recommender systems
 ### MF
