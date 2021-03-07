@@ -16,6 +16,7 @@
 - *[Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
+- *[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Recommender systems
 ### MF
