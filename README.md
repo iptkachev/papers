@@ -27,6 +27,7 @@
 
 ### Improving recommendations
 - *[Improving recommendation lists through topic diversification](https://www.researchgate.net/publication/200110416_Improving_recommendation_lists_through_topic_diversification)
+- *[Who likes it more Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference](https://github.com/zzhaozeng/IRPapers/blob/master/Group5/Who%20likes%20it%20more%20Mining%20Worth-Recommending%20Items%20from%20Long%20Tails%20by%20Modeling%20Relative%20Preference..pdf)
 
 ### Using deep learning
 - *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
