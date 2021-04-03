@@ -10,6 +10,7 @@
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
+- *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 
 ### Common
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
