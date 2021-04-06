@@ -1,5 +1,9 @@
 # Machine Learning Papers and best sources to learn topics
 
+## Aggregators
+- https://42papers.com/
+- https://paperswithcode.com/ - papers with code
+
 ## Deep learning
 ### NLP
 - [Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
