@@ -8,7 +8,7 @@
 ### NLP
 - [Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
 - [Negative Sampling, Hierarchical Softmax in Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
-- *[FastText](https://arxiv.org/pdf/1607.04606.pdf)
+- [FastText](https://arxiv.org/pdf/1607.04606.pdf)
 
 ### CV
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
@@ -17,8 +17,8 @@
 - *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 
 ### RNN
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - *[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - attention in machine translating
-- *[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - *[Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
 
 ### Common
