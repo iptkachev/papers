@@ -22,7 +22,8 @@
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - attention in machine translating with RNN
 
 ### RL
-- *[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+- *[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) - policy function algorithm
+- *[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) - Q-function algorithm
 
 ### Common
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
