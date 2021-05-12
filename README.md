@@ -3,6 +3,7 @@
 ## Aggregators
 - https://42papers.com/
 - https://paperswithcode.com/ - papers with code
+- https://andlukyane.com/blog/ - review of modern papers
 
 ## Deep learning
 ### NLP
