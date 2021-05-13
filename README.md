@@ -10,7 +10,7 @@
 - [Word2Vec, 2013](https://arxiv.org/pdf/1301.3781.pdf)
 - [Negative Sampling, Hierarchical Softmax in Word2Vec, 2013](https://arxiv.org/pdf/1310.4546.pdf)
 - [FastText, 2016](https://arxiv.org/pdf/1607.04606.pdf)
-- *[BERT, 2018](https://arxiv.org/abs/1810.04805)
+- [BERT, 2018](https://arxiv.org/abs/1810.04805)
 
 ### CV
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
@@ -31,7 +31,7 @@
 - *[Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
-- *[Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
 - *[Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 
 ## Recommender systems
