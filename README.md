@@ -63,6 +63,9 @@
 - [Adapting Neural Networks for Uplift Models](marked_articles/2011.00041.pdf)
 - *[A Practically Competitive and Provably Consistent Algorithm for Uplift Modeling](https://arxiv.org/pdf/1709.03683.pdf)
 
+## Pricing
+- *[Pricing Promotional Products Under Upselling](https://ziya.web.unc.edu/wp-content/uploads/sites/15166/2018/02/Aydin-Ziya-2008.pdf)
+
 ## Advertising
 - [Practical Lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf) - _downsampling_, features from GBM for LogReg, data freshness
 - [Smart Pacing for Effective Online Ad Campaign Optimization](https://arxiv.org/pdf/1506.05851.pdf)
