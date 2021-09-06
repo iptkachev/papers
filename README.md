@@ -17,6 +17,10 @@
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
 - *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
+- *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
+- *[StyleGAN](https://arxiv.org/abs/1812.04948)
+- *[StyleGAN2](https://arxiv.org/abs/1912.04958v2)
+
 
 ### RNN
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -30,9 +34,8 @@
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
 - [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
-- *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
-- *[Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
+
 
 ## Recommender systems
 ### MF
@@ -47,6 +50,7 @@
 
 ### Using deep learning
 - *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
+- *[Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/murufeng/awesome-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
 
 ## Statistics
