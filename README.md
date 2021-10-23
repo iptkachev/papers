@@ -36,6 +36,7 @@
 
 ### Common
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) - tricks and guide for coding DL|ML
 - [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
