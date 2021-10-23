@@ -2,6 +2,7 @@
 
 ## Aggregators
 - https://42papers.com/
+- https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap - roadmap for NN from basis to advance
 - https://paperswithcode.com/ - papers with code
 - https://andlukyane.com/blog/ - review of modern papers
 
