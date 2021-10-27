@@ -7,6 +7,7 @@
 - https://andlukyane.com/blog/ - review of modern papers
 - https://farid.one/kaggle-solutions/ - top kaggle solutions
 
+
 ## Deep learning
 ### NLP
 - [Word2Vec, 2013](https://arxiv.org/pdf/1301.3781.pdf)
@@ -22,7 +23,6 @@
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[StyleGAN](https://arxiv.org/abs/1812.04948)
 - *[StyleGAN2](https://arxiv.org/abs/1912.04958v2)
-
 
 ### RNN
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -45,6 +45,7 @@
 - *[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 - *[GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 - *[Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
+- *[Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
 
 
 ## Recommender systems
