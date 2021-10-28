@@ -6,7 +6,7 @@
 - https://paperswithcode.com/ - papers with code
 - https://andlukyane.com/blog/ - review of modern papers
 - https://farid.one/kaggle-solutions/ - top kaggle solutions
-
+- https://emacsway.github.io/ru/self-learning-for-software-engineer - #offtop computer science roadmap
 
 ## Deep learning
 ### NLP
