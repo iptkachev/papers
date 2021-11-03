@@ -33,7 +33,7 @@
 - *[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) - Q-function algorithm
 
 ### Distilation knowledge
-- *[Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - *[Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation](https://arxiv.org/abs/1912.13179)
 
 ### Common
