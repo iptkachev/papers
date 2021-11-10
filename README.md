@@ -45,7 +45,7 @@
 - *[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 - *[GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 - *[Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
-- *[Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
+- [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
 
 
 ## Recommender systems
