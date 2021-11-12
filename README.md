@@ -65,7 +65,7 @@
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/murufeng/awesome-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
 
-## Statistics
+## Statistics - A/B
 - [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
 - [Practitioner’s Guide to Statistical Tests](https://medium.com/@vktech/practitioners-guide-to-statistical-tests-ed2d580ef04f) - tests for proportion, pitfalls
 - [Possion bootstrap](https://www.unofficialgoogledatascience.com/2015/08/an-introduction-to-poisson-bootstrap26.html)
@@ -73,6 +73,7 @@
 - [Hypo testing bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)#Bootstrap_hypothesis_testing)
 - [CUPED at A/B](https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf)
 - [Linearization at A/B](https://www.researchgate.net/publication/322969314_Consistent_Transformation_of_Ratio_Metrics_for_Efficient_Online_Controlled_Experiments)
+- *[Overlapping Experiment Infrastructure: More, Better, Faster Experimentation](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/36500.pdf) - several experiments for one user at once
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
