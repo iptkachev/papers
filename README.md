@@ -23,6 +23,7 @@
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[StyleGAN](https://arxiv.org/abs/1812.04948)
 - *[StyleGAN2](https://arxiv.org/abs/1912.04958v2)
+- *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 
 ### RNN
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
