@@ -16,13 +16,19 @@
 - [BERT, 2018](https://arxiv.org/abs/1810.04805)
 
 ### CV
+## Segmentation
+- *[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+## Detection
 - *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
-- *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
+- *[Mask R-CNN, 2017](https://arxiv.org/abs/1703.06870)
+## GAN
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[StyleGAN](https://arxiv.org/abs/1812.04948)
 - *[StyleGAN2](https://arxiv.org/abs/1912.04958v2)
+## Common
+- *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 - *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 
 ### RNN
