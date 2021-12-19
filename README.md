@@ -23,6 +23,7 @@
 - *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
 - *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
 - *[Mask R-CNN, 2017](https://arxiv.org/abs/1703.06870)
+- *[Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
 #### GAN
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[StyleGAN](https://arxiv.org/abs/1812.04948)
