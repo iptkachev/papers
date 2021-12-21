@@ -107,3 +107,6 @@
 - [F1-score, ROC_AUC, PR-AUC, comparison, prons and cons](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc#1)
 - [NDCG](https://en.wikipedia.org/wiki/Discounted_cumulative_gain)
 - [MRR](https://en.wikipedia.org/wiki/Mean_reciprocal_rank) - Mean_reciprocal_rank
+
+## TimeSeries
+- [Kats](https://github.com/facebookresearch/Kats) - time series library (better than prophet)
