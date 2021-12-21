@@ -47,13 +47,16 @@
 ### Common
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) - tricks and guide for coding DL|ML
+- [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
 - [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
 - *[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
-- *[GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
+
+### Transformers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
+- *[A Survey of Transformers](https://arxiv.org/abs/2106.04554)
 - *[Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
-- [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
+- *[GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
 
 ## Recommender systems
