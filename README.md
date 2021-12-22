@@ -17,17 +17,12 @@
 
 ### Computer vision
 #### Segmentation
-- *[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+- *[Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf)
 #### Detection
-- *[FCN, 2014](https://arxiv.org/pdf/1411.4038.pdf)
-- *[Fast R-CNN, 2015](https://arxiv.org/pdf/1504.08083.pdf)
-- *[Faster R-CNN, 2016](https://arxiv.org/pdf/1506.01497.pdf)
-- *[Mask R-CNN, 2017](https://arxiv.org/abs/1703.06870)
 - *[Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
 #### GAN
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
-- *[StyleGAN](https://arxiv.org/abs/1812.04948)
-- *[StyleGAN2](https://arxiv.org/abs/1912.04958v2)
+- *[A Survey on Generative Adversarial Networks: Variants, Applications, and Training](https://arxiv.org/pdf/2006.05132.pdf)
 #### Common
 - *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 - *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
@@ -56,7 +51,6 @@
 ### Transformers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
 - *[A Survey of Transformers](https://arxiv.org/abs/2106.04554)
-- *[Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 - *[GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
 
@@ -66,7 +60,7 @@
 - [ALS distributed, notes](http://stanford.edu/~rezab/classes/cme323/S15/notes/lec14.pdf)
 - [Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf) - LearnBPR, MF, bayes optimizing ranking function
 - [WSABIE: Scaling Up To Large Vocabulary Image Annotation](http://www.thespermwhale.com/jaseweston/papers/wsabie-ijcai.pdf) - smart pairwise sampling, optimizing ranking function 
-- [*Factorization Machine](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+- *[Factorization Machine](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 
 ### Improving recommendations
 - *[Improving recommendation lists through topic diversification](https://www.researchgate.net/publication/200110416_Improving_recommendation_lists_through_topic_diversification)
