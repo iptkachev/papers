@@ -45,6 +45,7 @@
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) - tricks and guide for coding DL|ML
 - [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
 - [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
+- [VAE notes](https://www.notion.so/08644d3c48c341f28c4a93703b419a6d#4fbfcb8ddd0f411a83d093ac8c28770d) - excelent explanation for VAE in russian
 - *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 - *[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
