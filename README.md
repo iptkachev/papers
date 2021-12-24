@@ -38,6 +38,7 @@
 
 ### Distilation knowledge
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+- *[A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/pdf/2103.13630.pdf)
 - *[Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation](https://arxiv.org/abs/1912.13179)
 
 ### Common
