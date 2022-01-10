@@ -7,6 +7,7 @@
 - https://andlukyane.com/blog/ - review of modern papers
 - https://farid.one/kaggle-solutions/ - top kaggle solutions
 - https://emacsway.github.io/ru/self-learning-for-software-engineer - #offtop computer science roadmap
+- https://www.arxiv-vanity.com/ - convert arxiv papers to html with click references and ability to translate via browser
 
 ## Deep learning
 ### NLP
