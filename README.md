@@ -28,6 +28,7 @@
 - *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 - *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 - *[DALL'E](https://arxiv.org/abs/2102.12092)
+- *[Deep Learning vs. Traditional Computer Vision](https://arxiv.org/pdf/1910.13796.pdf)
 
 ### RNN
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
