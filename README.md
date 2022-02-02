@@ -8,6 +8,7 @@
 - https://farid.one/kaggle-solutions/ - top kaggle solutions
 - https://emacsway.github.io/ru/self-learning-for-software-engineer - #offtop computer science roadmap
 - https://www.arxiv-vanity.com/ - convert arxiv papers to html with click references and ability to translate via browser
+- http://jalammar.github.io - best visualisations and explanation for papers 
 
 ## Deep learning
 ### NLP
