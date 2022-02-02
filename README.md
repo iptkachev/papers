@@ -44,6 +44,8 @@
 - *[Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation](https://arxiv.org/abs/1912.13179)
 
 ### Common
+- [Batchnorm explanation](https://leimao.github.io/blog/Batch-Normalization/) - main idea for cv: norm over minibatch for each filter
+- [Layernorm explanation](https://leimao.github.io/blog/Layer-Normalization/) - main idea for cv: norm over ONE sample in minibatch for each filter
 - [Guide for learning rate schedulers](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling#7.-CyclicLR---triangular2)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) - tricks and guide for coding DL|ML
 - [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
