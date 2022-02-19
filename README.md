@@ -26,7 +26,7 @@
 - *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[A Survey on Generative Adversarial Networks: Variants, Applications, and Training](https://arxiv.org/pdf/2006.05132.pdf)
 #### Common
-- *[FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
+- [FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 - *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 - *[DALL'E](https://arxiv.org/abs/2102.12092)
 - *[Deep Learning vs. Traditional Computer Vision](https://arxiv.org/pdf/1910.13796.pdf)
