@@ -23,7 +23,7 @@
 #### Detection
 - *[Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
 #### GAN
-- *[Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
+- [Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[A Survey on Generative Adversarial Networks: Variants, Applications, and Training](https://arxiv.org/pdf/2006.05132.pdf)
 #### Common
 - [FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
