@@ -19,9 +19,10 @@
 
 ### Computer vision
 #### Segmentation
-- *[Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf)
+- [SSD](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - best tutorial
+- [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf)
 #### Detection
-- *[Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
+- [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
 #### GAN
 - [Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
 - *[A Survey on Generative Adversarial Networks: Variants, Applications, and Training](https://arxiv.org/pdf/2006.05132.pdf)
