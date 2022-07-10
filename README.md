@@ -16,6 +16,7 @@
 - [Word2Vec, 2013](https://arxiv.org/pdf/1301.3781.pdf)
 - [Negative Sampling, Hierarchical Softmax in Word2Vec, 2013](https://arxiv.org/pdf/1310.4546.pdf)
 - [FastText, 2016](https://arxiv.org/pdf/1607.04606.pdf)
+- [Clear explanation FastText](https://amitness.com/2020/06/fasttext-embeddings/)
 - [BERT, 2018](https://arxiv.org/abs/1810.04805)
 
 ### Computer vision
