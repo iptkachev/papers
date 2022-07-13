@@ -10,6 +10,7 @@
 - https://www.arxiv-vanity.com/ - convert arxiv papers to html with click references and ability to translate via browser
 - http://jalammar.github.io - best visualisations and explanation for papers
 - https://lena-voita.github.io/nlp_course.html - excelent NLP course pages
+- http://nlpprogress.com/ - SOTA rank results for every NLP task
 
 ## Deep learning
 ### NLP
