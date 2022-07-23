@@ -19,6 +19,7 @@
 - [FastText, 2016](https://arxiv.org/pdf/1607.04606.pdf)
 - [Clear explanation FastText](https://amitness.com/2020/06/fasttext-embeddings/)
 - [BERT, 2018](https://arxiv.org/abs/1810.04805)
+- [SummaRuNNer](https://arxiv.org/pdf/1611.04230.pdf) - text summarization
 
 ### Computer vision
 #### Segmentation
