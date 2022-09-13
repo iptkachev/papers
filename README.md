@@ -95,6 +95,9 @@
 - [Linearization at A/B](https://www.researchgate.net/publication/322969314_Consistent_Transformation_of_Ratio_Metrics_for_Efficient_Online_Controlled_Experiments)
 - [Overlapping Experiment Infrastructure: More, Better, Faster Experimentation](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/36500.pdf) - several experiments for one user at once
 
+## Web search
+- [Identifying Ambiguous Queries in Web Search](https://www.www2007.org/posters/poster941.pdf)
+
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
 - [Adapting Neural Networks for Uplift Models](marked_articles/2011.00041.pdf)
