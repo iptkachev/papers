@@ -97,6 +97,7 @@
 
 ## Web search
 - [Identifying Ambiguous Queries in Web Search](https://www.www2007.org/posters/poster941.pdf)
+- [Determining the user intent of web search engine queries](https://www.researchgate.net/publication/221023370_Determining_the_user_intent_of_web_search_engine_queries)
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
