@@ -82,6 +82,8 @@
 - *[Who likes it more Mining Worth-Recommending Items from Long Tails by Modeling Relative Preference](https://github.com/zzhaozeng/IRPapers/blob/master/Group5/Who%20likes%20it%20more%20Mining%20Worth-Recommending%20Items%20from%20Long%20Tails%20by%20Modeling%20Relative%20Preference..pdf)
 
 ### Using deep learning
+- [Monolith: Real Time Recommendation System With
+Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok online learning
 - *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/murufeng/awesome-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
