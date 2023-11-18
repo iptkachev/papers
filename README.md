@@ -126,3 +126,6 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 
 ## TimeSeries
 - [Kats](https://github.com/facebookresearch/Kats) - time series library (better than prophet)
+
+## ANN
+- [Product quantization](https://towardsdatascience.com/product-quantization-for-similarity-search-2f1f67c5fddd)
