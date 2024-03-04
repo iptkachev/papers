@@ -20,6 +20,7 @@
 - [Clear explanation FastText](https://amitness.com/2020/06/fasttext-embeddings/)
 - [BERT, 2018](https://arxiv.org/abs/1810.04805)
 - [SummaRuNNer](https://arxiv.org/pdf/1611.04230.pdf) - text summarization
+- [P-tuning](https://habr.com/ru/companies/yandex/articles/588214/) - train embeddings for prompt tokens and freeze main LLM params to solve specific tasks
 
 ### Computer vision
 #### Segmentation
