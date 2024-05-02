@@ -84,10 +84,9 @@
 
 ### Using deep learning
 - [Monolith: Real Time Recommendation System With
-Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok online learning
+Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok online learning, cucko hash encoding
 - *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
-- [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/murufeng/awesome-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
 
 ## Statistics - A/B
 - [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
@@ -100,9 +99,15 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 - [Overlapping Experiment Infrastructure: More, Better, Faster Experimentation](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/36500.pdf) - several experiments for one user at once
 
 ## Web search
+### Multi-intent
 - [Identifying Ambiguous Queries in Web Search](https://www.www2007.org/posters/poster941.pdf)
 - [Determining the user intent of web search engine queries](https://www.researchgate.net/publication/221023370_Determining_the_user_intent_of_web_search_engine_queries)
-- [Embedding-based Retrieval in Facebook Search](https://github.com/iptkachev/papers/blob/main/marked_articles/2006.11632.pdf)
+
+### Embeddings, LTR
+- [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/iptkachev/papers/blob/main/marked_articles/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
+- [Embedding-based Retrieval in Facebook Search](https://github.com/iptkachev/papers/blob/main/marked_articles/2006.11632.pdf) - embedding search
+- [Real-Time Personalized Ranking in E-commerce Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Real-Time%20Personalized%20Ranking%20in%20E-commerce%20Search.pdf) - 3 types of features, Kendall-Tau measuring personalization
+
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
