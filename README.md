@@ -105,7 +105,7 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 
 ### Embeddings, LTR
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/iptkachev/papers/blob/main/marked_articles/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
-- [Embedding-based Retrieval in Facebook Search](https://github.com/iptkachev/papers/blob/main/marked_articles/2006.11632.pdf) - embedding search
+- [Embedding-based Retrieval in Facebook Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Embedding-based%20Retrieval%20in%20Facebook%20Search.pdf) - embedding search
 - [Real-Time Personalized Ranking in E-commerce Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Real-Time%20Personalized%20Ranking%20in%20E-commerce%20Search.pdf) - 3 types of features, Kendall-Tau measuring personalization
 
 
