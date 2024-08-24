@@ -37,7 +37,6 @@
 - [FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
 - *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 - *[DALL'E](https://arxiv.org/abs/2102.12092)
-- *[Deep Learning vs. Traditional Computer Vision](https://arxiv.org/pdf/1910.13796.pdf)
 
 ### RNN
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -51,6 +50,7 @@
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - *[A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/pdf/2103.13630.pdf)
 - *[Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation](https://arxiv.org/abs/1912.13179)
+- [Empirical_Study_of_Uniform_Architecture_Knowledge_Distillation](https://github.com/iptkachev/papers/blob/main/marked_articles/An_Empirical_Study_of_Uniform_Architecture_Knowledge_Distillation.pdf)
 
 ### Common
 - [Batchnorm explanation](https://leimao.github.io/blog/Batch-Normalization/) - main idea for cv: norm over minibatch for each filter
@@ -60,8 +60,6 @@
 - [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
 - [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
 - [VAE notes](https://www.notion.so/08644d3c48c341f28c4a93703b419a6d#4fbfcb8ddd0f411a83d093ac8c28770d) - excelent explanation for VAE in russian
-- *[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
-- *[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### Transformers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
@@ -85,8 +83,9 @@
 ### Using deep learning
 - [Monolith: Real Time Recommendation System With
 Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok online learning, cucko hash encoding
-- *[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
+- [BERT4Rec](https://github.com/iptkachev/papers/blob/main/marked_articles/BERT4Rec.pdf)
+- [SAS4Rec](https://github.com/iptkachev/papers/blob/main/marked_articles/SAS4Rec.pdf)
 
 ## Statistics - A/B
 - [Trustworthy Online Controlled Experiments](https://experimentguide.com) - A Practical Guide to A/B Testing
@@ -106,8 +105,9 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 
 ### Embedding search
 - [Embedding-based Retrieval in Facebook Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Embedding-based%20Retrieval%20in%20Facebook%20Search.pdf) - embedding search
+- [Que2Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Que2Search.pdf) - improving **Embedding-based Retrieval in Facebook Search** with bert model
 
-### Psrsonalization
+### Personalization
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/iptkachev/papers/blob/main/marked_articles/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
 - [Personalized Transformer-based Ranking for e-Commerce at Yandex](https://github.com/iptkachev/papers/blob/main/marked_articles/Personalized%20Transformer-based%20Ranking%20for%20e-Commerce%20at%20Yandex.pdf)
 - [Real-Time Personalized Ranking in E-commerce Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Real-Time%20Personalized%20Ranking%20in%20E-commerce%20Search.pdf) - 3 types of features, Kendall-Tau measuring personalization
