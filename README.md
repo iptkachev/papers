@@ -112,6 +112,8 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 - [Personalized Transformer-based Ranking for e-Commerce at Yandex](https://github.com/iptkachev/papers/blob/main/marked_articles/Personalized%20Transformer-based%20Ranking%20for%20e-Commerce%20at%20Yandex.pdf)
 - [Real-Time Personalized Ranking in E-commerce Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Real-Time%20Personalized%20Ranking%20in%20E-commerce%20Search.pdf) - 3 types of features, Kendall-Tau measuring personalization
 
+### Click
+- [Can clicks be both labels and features? Unbiased Behavior Feature Collection and Uncertainty-aware Learning to Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/can_clicks_be_both_labels_and_features_unbiased_behavior_feature.pdf)
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
