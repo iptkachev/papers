@@ -1,13 +1,11 @@
 # Machine Learning Papers and best sources to learn topics
 
 ## Aggregators
-- https://42papers.com/
 - https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap - roadmap for NN from basis to advance
 - https://paperswithcode.com/ - papers with code
 - https://andlukyane.com/blog/ - review of modern papers
 - https://farid.one/kaggle-solutions/ - top kaggle solutions
 - https://emacsway.github.io/ru/self-learning-for-software-engineer - #offtop computer science roadmap
-- https://www.arxiv-vanity.com/ - convert arxiv papers to html with click references and ability to translate via browser
 - http://jalammar.github.io - best visualisations and explanation for papers
 - https://lena-voita.github.io/nlp_course.html - excelent NLP course pages
 - http://nlpprogress.com/ - SOTA rank results for every NLP task
@@ -112,8 +110,10 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 - [Personalized Transformer-based Ranking for e-Commerce at Yandex](https://github.com/iptkachev/papers/blob/main/marked_articles/Personalized%20Transformer-based%20Ranking%20for%20e-Commerce%20at%20Yandex.pdf)
 - [Real-Time Personalized Ranking in E-commerce Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Real-Time%20Personalized%20Ranking%20in%20E-commerce%20Search.pdf) - 3 types of features, Kendall-Tau measuring personalization
 
-### Click
+### Click bias estimation
 - [Can clicks be both labels and features? Unbiased Behavior Feature Collection and Uncertainty-aware Learning to Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/can_clicks_be_both_labels_and_features_unbiased_behavior_feature.pdf)
+- [When Inverse Propensity Scoring does not Work - Affine Corrections for Unbiased Learning to Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/When%20Inverse%20Propensity%20Scoring%20does%20not%20Work-%20Affine%20Corrections%20for%20Unbiased%20Learning%20to%20Rank.pdf)
+- [Position Bias Estimation for Unbiased Learning to Rank in Personal Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Position%20Bias%20Estimation%20for%20Unbiased%20Learning%20to%20Rank%20in%20Personal%20Search.pdf)
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
