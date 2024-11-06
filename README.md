@@ -28,12 +28,9 @@
 - [SSD](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - best tutorial
 #### GAN
 - [Generative Adversarial Nets (GAN)](https://arxiv.org/pdf/1406.2661.pdf)
-- *[A Survey on Generative Adversarial Networks: Variants, Applications, and Training](https://arxiv.org/pdf/2006.05132.pdf)
 #### Common
 - [*Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-- [*MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 - [FaceNet, 2015](https://arxiv.org/pdf/1503.03832.pdf)
-- *[Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
 - *[DALL'E](https://arxiv.org/abs/2102.12092)
 
 ### RNN
@@ -96,7 +93,7 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 - [Linearization at A/B](https://www.researchgate.net/publication/322969314_Consistent_Transformation_of_Ratio_Metrics_for_Efficient_Online_Controlled_Experiments)
 - [Overlapping Experiment Infrastructure: More, Better, Faster Experimentation](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/36500.pdf) - several experiments for one user at once
 
-## Web search
+## Search engines, Learning-to-Rank
 ### Multi-intent
 - [Identifying Ambiguous Queries in Web Search](https://www.www2007.org/posters/poster941.pdf)
 - [Determining the user intent of web search engine queries](https://www.researchgate.net/publication/221023370_Determining_the_user_intent_of_web_search_engine_queries)
@@ -112,16 +109,13 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 
 ### Click bias estimation
 - [Can clicks be both labels and features? Unbiased Behavior Feature Collection and Uncertainty-aware Learning to Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/can_clicks_be_both_labels_and_features_unbiased_behavior_feature.pdf)
-- [When Inverse Propensity Scoring does not Work - Affine Corrections for Unbiased Learning to Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/When%20Inverse%20Propensity%20Scoring%20does%20not%20Work-%20Affine%20Corrections%20for%20Unbiased%20Learning%20to%20Rank.pdf)
-- [Position Bias Estimation for Unbiased Learning to Rank in Personal Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Position%20Bias%20Estimation%20for%20Unbiased%20Learning%20to%20Rank%20in%20Personal%20Search.pdf)
+- [When Inverse Propensity Scoring does not Work - Affine Corrections for Unbiased Learning to Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/When%20Inverse%20Propensity%20Scoring%20does%20not%20Work-%20Affine%20Corrections%20for%20Unbiased%20Learning%20to%20Rank.pdf) - first introduction affince corrections
+- [Addressing Trust Bias for Unbiased Learning-to-Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/Addressing%20Trust%20Bias%20for%20Unbiased%20Learning-to-Rank.pdf) - EM algorithm explanation
+- [Position Bias Estimation for Unbiased Learning to Rank in Personal Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Position%20Bias%20Estimation%20for%20Unbiased%20Learning%20to%20Rank%20in%20Personal%20Search.pdf) - IPS
 
 ## Uplift
 - *[Causal Inference and Uplift Modeling. A review of the literature](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf)
 - [Adapting Neural Networks for Uplift Models](marked_articles/2011.00041.pdf)
-- *[A Practically Competitive and Provably Consistent Algorithm for Uplift Modeling](https://arxiv.org/pdf/1709.03683.pdf)
-
-## Pricing
-- *[Pricing Promotional Products Under Upselling](https://ziya.web.unc.edu/wp-content/uploads/sites/15166/2018/02/Aydin-Ziya-2008.pdf)
 
 ## Advertising
 - [Practical Lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf) - _downsampling_, features from GBM for LogReg, data freshness
