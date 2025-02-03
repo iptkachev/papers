@@ -113,7 +113,7 @@ Collisionless Embedding Table](https://arxiv.org/abs/2209.07663) - tik-tok onlin
 - [Addressing Trust Bias for Unbiased Learning-to-Rank](https://github.com/iptkachev/papers/blob/main/marked_articles/Addressing%20Trust%20Bias%20for%20Unbiased%20Learning-to-Rank.pdf) - EM algorithm explanation
 - [Position Bias Estimation for Unbiased Learning to Rank in Personal Search](https://github.com/iptkachev/papers/blob/main/marked_articles/Position%20Bias%20Estimation%20for%20Unbiased%20Learning%20to%20Rank%20in%20Personal%20Search.pdf) - IPS
 
-## Other
+### Other
 - [Don’t Forget This: Augmenting Results with Event-Aware Search](https://github.com/iptkachev/papers/blob/main/marked_articles/dont-forget-this-augmenting-results-with-event-aware-search.pdf)
 - [Playlist Search Reinvented: LLMs Behind the Curtain](https://github.com/iptkachev/papers/blob/main/marked_articles/playlist-search-reinvented-llms-behind-the-curtain.pdf)
 - [Ranking Across Different Content Types: The Robust Beauty of Multinomial Blending](https://github.com/iptkachev/papers/blob/main/marked_articles/ranking-across-different-content-types-the-robust-beauty-of-multinomial-blending.pdf)
