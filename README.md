@@ -11,6 +11,10 @@
 - http://nlpprogress.com/ - SOTA rank results for every NLP task
 
 ## Deep learning
+### LLM
+- [LoRA](https://github.com/iptkachev/papers/blob/main/marked_articles/LoRA.pdf)
+- [ZeroSearch](https://github.com/iptkachev/papers/blob/main/marked_articles/ZEROSEARCH.pdf)
+
 ### NLP
 - [Word2Vec, 2013](https://arxiv.org/pdf/1301.3781.pdf)
 - [Negative Sampling, Hierarchical Softmax in Word2Vec, 2013](https://arxiv.org/pdf/1310.4546.pdf)
@@ -59,7 +63,6 @@
 ### Transformers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - transformer
 - [Explanation of "Attention Is All You Need"](http://jalammar.github.io/illustrated-transformer/) - best explanation of paper
-- *[A Survey of Transformers](https://arxiv.org/abs/2106.04554)
 - *[GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
 
